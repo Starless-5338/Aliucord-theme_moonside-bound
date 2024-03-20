@@ -1,0 +1,52 @@
+{
+    "manifest": {
+        "author": "starless.5338",
+        "name": "Moonside",
+        "version": "6.9.6.9"
+    },
+    "background": {
+        "url": "https:\/\/github.com\/Starless-5338\/moonside-theme\/blob\/main\/Moonside~2.png?raw=true"
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/Starless-5338\/moonside-theme\/raw\/main\/onett.otf"
+    },
+    "simple_colors": {
+        "background_secondary": 0,
+        "background": 0,
+        "accent": 547881471,
+        "statusbar": 615121151
+    },
+    "colors": {
+        "link": -66599097,
+        "link_light": -10223721,
+        "primary_dark_200": -6881163,
+        "primary_dark_360": -10605825,
+        "primary_dark_material_light": -10605825,
+        "primary_text_disabled_material_dark": -10605825,
+        "secondary_text_disabled_material_dark": -10605825,
+        "uikit_btn_bg_color_selector_red": -2490250,
+        "uikit_btn_bg_color_selector_green": -11352014,
+        "uikit_btn_compound_color_selector_dark": -10605825,
+        "uikit_btn_text_color_selector": -10605825,
+        "primary_dark_300": -8060673,
+        "primary_dark_330": -8060673,
+        "primary_dark_400": -8060673,
+        "secondary_text_default_material_dark": -8060673,
+        "primary_dark": -6881163,
+        "white_500": -5206976
+    },
+    "drawable_tints": {
+        "ic_hypesquad_house1_32dp": -10813185,
+        "ic_hypesquad_house2_32dp": -16774401,
+        "ic_hypesquad_house3_32dp": -16711723,
+        "ic_status_dnd_16dp": -5500339,
+        "ic_status_idle_16dp": -1024,
+        "ic_status_online_16dp": -16711827,
+        "ic_status_invisible_16dp": -4943413,
+        "ic_status_streaming_16dp": -65295,
+        "drawable_bg_card_grey": 203800665,
+        "drawable_bottom_up_primary_600_gradient": 529989701,
+        "ic_mobile": 555199622
+    },
+    "raws": {}
+}
